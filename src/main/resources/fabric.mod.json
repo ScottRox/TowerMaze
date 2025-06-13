@@ -1,8 +1,8 @@
 {
 	"schemaVersion": 1,
-	"id": "chainmail",
+	"id": "towermaze",
 	"version": "${version}",
-	"name": "chainmail",
+	"name": "towermaze",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
 		"Me!"
