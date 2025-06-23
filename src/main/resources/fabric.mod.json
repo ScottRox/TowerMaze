@@ -16,13 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"uglyrunt.towermaze.TowerMaze"
 		],
 		"fabric-datagen": [
-			"uglyrunt.towermaze.TowerMazeDataGenerator"
 		],
 		"client": [
-			"uglyrunt.towermaze.TowerMazeClient"
 		]
 	},
 	"mixins": [
